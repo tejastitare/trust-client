@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className="bg-blue-900 text-white p-4 shadow-lg">
       <div className="container mx-auto flex justify-between items-center">
-        <Link to="/" className="text-2xl font-bold">Divyakranti Sushikshit Berojgar Seva Shakari Sanshtha</Link>
+        <Link to="/" className="text-2xl font-bold">Divyakranti Sushikshit Berojgar Bahuuddheshiy Seva Sahkari Sanstha Maryadit</Link>
         <button
           className="md:hidden focus:outline-none"
           onClick={() => setIsOpen(!isOpen)}
